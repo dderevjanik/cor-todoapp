@@ -1,0 +1,11 @@
+#root {
+    height: 100%;
+}
+
+.done-text {
+    text-decoration: line-through;
+}
+
+.empty-text {
+    font-style: italic;
+}
